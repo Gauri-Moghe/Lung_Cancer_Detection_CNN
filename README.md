@@ -45,11 +45,6 @@ A **custom CNN model** is implemented with the following structure:
    jupyter notebook Final_MV_Project.ipynb
    ```
 
-## Future Improvements
-- Implement **transfer learning** with pre-trained models like **ResNet or VGG16**.
-- Increase dataset size for better generalization.
-- Deploy as a web application for easy accessibility.
-
 ## Credits
 - **Developed by:** Gauri Shashank Moghe
 - **Dataset Source:** [Kaggle - Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
